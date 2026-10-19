@@ -1,6 +1,6 @@
 # Hacker
 
-Near-black with abstract circuit and oscilloscope wallpapers and a vintage Unix workstation palette: phosphor green, amber, cyan, magenta and warm red.
+Ethereal near-black monochrome wallpaper (drifting mist over ghosted grid and circuit lines) with a vintage Unix workstation palette: phosphor green, amber, cyan, magenta and warm red.
 
 ![Hacker preview](preview.png)
 
@@ -28,8 +28,7 @@ Switch to another theme first if this one is active.
 
 - `colors.toml`: the palette. Omarchy generates the Hyprland, Waybar, Walker, Mako, SwayOSD, Hyprlock, terminal (Alacritty, Kitty, Ghostty), btop, Neovim (aether.nvim) and other app configs from it when you switch themes
 - `icons.theme`: GTK icon set (`Yaru-sage`)
-- `backgrounds/1-circuit-traces.png`: circuit traces and grid, 3840×2160
-- `backgrounds/2-oscilloscope.png`: wireframe grid and oscilloscope waves, 3840×2160
+- `backgrounds/1-ethereal-mist.jpg`: dark monochrome mist with faint grid and circuit lines, 3840×2160
 - `preview.png`: theme preview
 
 ### Palette
